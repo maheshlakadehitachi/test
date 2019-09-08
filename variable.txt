@@ -1,0 +1,2 @@
+ def app_name="ContractBillingPreferences_v1"
+def git_url="http://nasbldsvr.nasco.com:7990/scm/exp/ContractBillingPreferences_v1.git"
